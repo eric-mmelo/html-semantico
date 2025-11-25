@@ -1,0 +1,9 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+mark {
+    background-color: rgba(0, 133, 29, 0.89);
+    color: #000;
+}
